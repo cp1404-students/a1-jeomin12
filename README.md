@@ -17,5 +17,5 @@ again.
 
 2. What do you plan to do differently in your development process for assignment 2?
 
-   > For assignment 2 I will start earlier and work iteratively. Next time I will ask peer feedback before 
+   > For assignment 2, I will start earlier and work iteratively. Next time I will ask peer feedback before 
    > finishing the work.
